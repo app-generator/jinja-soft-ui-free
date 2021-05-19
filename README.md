@@ -24,7 +24,7 @@ Open-source **Jinja Template** provided by AppSeed on top of **[Soft UI](https:/
 
 Most complex and innovative Dashboard Made by Creative Tim: made of hundred of elements, designed blocks and fully coded pages, Soft UI Dashboard is ready to help you create stunning websites and webapps. 
 
-Premium Bootstrap 5 Design System built by Creative-Tim - Soft UI Design System is built with over 300 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
+Premium **Bootstrap 5 Design System** built by Creative-Tim - Soft UI Design System is built with over 300 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
 
 <br />
 
