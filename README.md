@@ -1,28 +1,30 @@
-# [Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system) Jinja
+# [Soft UI](https://appseed.us/ui-kit/soft-ui-design-system) Jinja
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
+Open-source **Jinja Template** provided by AppSeed on top of **[Soft UI](https://appseed.us/ui-kit/soft-ui-design-system)** Kit, a modern Bootstrap 5 design from Creative-Tim. The project might help beginners to code simple presentation websites on top of the existing codebase OR migrate the `production-ready` UI to a legacy Python-based project compatible with **Jinja Template Engine**: *Flask*, *Django*, *Bottle* of *FastAPI*. 
 
-- UI Kit: **Soft UI Design System** (Free Version) by **Creative-Tim**
-- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+<br />
+
+> Features:
+
+- UI Kit: **Soft UI Kit** (Free Version) by **Creative-Tim**
+- Render Engine: Flask / Jinja2
 - Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
-> Links
+> Links:
 
-- [Soft UI Design System Flask](https://appseed.us/product/flask-soft-ui-design-system) - product page
-- [Soft UI Design System Django](https://appseed.us/product/django-soft-ui-design-system) - product page
+- [Soft UI Kit Jinja](https://jinja-soft-ui-free.appseed-srv1.com) - LIVE Demo
+- More products built with [Soft UI Design](https://appseed.us/ui-kit/soft-ui-design-system) - provided by AppSeed
 
 <br />
 
-## Want more? Go PRO!
+## [Soft UI](https://appseed.us/ui-kit/soft-ui-design-system)
 
-PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
+Most complex and innovative Dashboard Made by Creative Tim: made of hundred of elements, designed blocks and fully coded pages, Soft UI Dashboard is ready to help you create stunning websites and webapps. 
 
-| [Flask Soft UI PRO](https://appseed.us/product/flask-soft-ui-pro) | [Flask Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) | [Flask Volt PRO](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro) |
-| --- | --- | --- |
-| [![Flask Soft UI PRO](https://raw.githubusercontent.com/app-generator/soft-ui-design-system/main/media/soft-ui-design-system-screen.png)](https://appseed.us/product/flask-soft-ui-pro) | [![Flask Material PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-material-pro/master/media/flask-dashboard-material-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) | [![Flask Volt PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-volt-pro/master/media/flask-dashboard-volt-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro)
+Premium Bootstrap 5 Design System built by Creative-Tim - Soft UI Design System is built with over 300 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
 
 <br />
 
@@ -230,4 +232,4 @@ You will save a lot of time going from prototyping to full-functional code, beca
 <br />
 
 ---
-[Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system) Jinja - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+[Soft UI](https://appseed.us/ui-kit/soft-ui-design-system) Jinja - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
